@@ -4,6 +4,14 @@ public class Animal {
     String color;
     double height;
 
+    @Override
+    public String toString() {
+        return "Animal{" +
+                "color='" + color + '\'' +
+                ", height=" + height +
+                '}';
+    }
+
     Animal() {
         color = "Red";
         height = 9.99;

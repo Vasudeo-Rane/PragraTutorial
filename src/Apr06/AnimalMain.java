@@ -9,5 +9,6 @@ public class AnimalMain {
         animal.makeSound();
         System.out.println("animal height is " + animal.height);
         System.out.println("animal color is " + animal.color);
+        System.out.println(animal);
     }
 }
