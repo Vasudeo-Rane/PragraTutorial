@@ -21,5 +21,7 @@ public class GroceryList {
         // Try playing around with different values in the array to test edge cases
         double[] groceryList = {10.0, 89.9, 8.99, 2.34};
         System.out.println(hasSpecialItem(groceryList));
+        System.out.println(groceryList);
+
     }
 }
