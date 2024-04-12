@@ -6,6 +6,7 @@ public class BankAccount {
     private double balance;
     private String accountType;
 
+    //git practice
     BankAccount(int accountNumber, String accountHolderName, double balance, String accountType) {
         this.accountNumber = accountNumber;
         this.accountHolderName = accountHolderName;
