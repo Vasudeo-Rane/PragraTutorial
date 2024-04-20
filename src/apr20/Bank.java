@@ -11,5 +11,6 @@ public class Bank {
         this.accountNumber = accountNumber;
         this.branch = branch;
     }
+
 }
 
