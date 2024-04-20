@@ -13,7 +13,6 @@ public class BankAccount {
         this.accountType = accountType;
     }
 
-
     public void deposit(double Rupees) {
         this.balance = this.balance + Rupees;
     }
