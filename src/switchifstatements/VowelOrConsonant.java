@@ -1,4 +1,4 @@
-package mar26;
+package switchifstatements;
 
 //Create a program that takes a character as input and determines if it's a vowel or a consonant.
 

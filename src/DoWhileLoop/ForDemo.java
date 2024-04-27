@@ -1,4 +1,4 @@
-package mar30;
+package DoWhileLoop;
 
 import java.util.Scanner;
 

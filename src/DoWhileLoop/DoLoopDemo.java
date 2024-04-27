@@ -1,4 +1,4 @@
-package mar30;
+package DoWhileLoop;
 
 //write java program to find the sum of first 10 natural numbers
 public class DoLoopDemo {

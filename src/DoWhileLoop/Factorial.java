@@ -1,4 +1,4 @@
-package mar30;
+package DoWhileLoop;
 //Implement a program to find the factorial of a given number using a while loop.
 
 import java.util.Scanner;

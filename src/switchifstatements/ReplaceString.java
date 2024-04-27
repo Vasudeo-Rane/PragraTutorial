@@ -1,4 +1,4 @@
-package mar26;
+package switchifstatements;
 
 class Replace {
     public static String replaceCharacter(String text, char charToReplace, char replacement) {

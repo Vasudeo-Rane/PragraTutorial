@@ -1,4 +1,4 @@
-package mar30;
+package DoWhileLoop;
 //write product table of a give number in specific format e.g. 5 * 1 = 5
 
 import java.util.Scanner;

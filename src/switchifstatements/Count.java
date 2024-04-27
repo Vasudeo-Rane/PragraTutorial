@@ -1,4 +1,4 @@
-package mar26;
+package switchifstatements;
 
 class Count {
 

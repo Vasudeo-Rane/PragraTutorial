@@ -1,4 +1,4 @@
-package mar26;
+package switchifstatements;
 
 import java.util.Locale;
 import java.util.Scanner;

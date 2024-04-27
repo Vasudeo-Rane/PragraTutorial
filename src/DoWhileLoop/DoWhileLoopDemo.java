@@ -1,4 +1,4 @@
-package mar30;
+package DoWhileLoop;
 
 public class DoWhileLoopDemo {
     public static void main(String[] args) {
