@@ -1,4 +1,4 @@
-package ObjectOrientedProgramAssignment;
+package ObjectOrientedProgramAssignment.polymorphism;
 
 public class Employee {
     int employeeId;
