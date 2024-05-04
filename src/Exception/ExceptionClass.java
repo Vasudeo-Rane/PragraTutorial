@@ -1,4 +1,4 @@
-package apr30;
+package Exception;
 
 public class ExceptionClass {
     public static void main(String[] args) {
@@ -6,7 +6,7 @@ public class ExceptionClass {
         arr[0] = 1;
         arr[1] = 2;
         try {
-            for (int i = 0; i < 5; i++) {
+            for (int i = 0; i <= arr.length; i++) {
                 System.out.println(arr[i]);
             }
         } catch (ArrayIndexOutOfBoundsException e) {

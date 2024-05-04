@@ -1,0 +1,10 @@
+1) Collection is there for storing the object, native datatype will not be supported.
+2) We can enforce type safety of collections by using generic.
+3) define the variable type as Object to handle different data type.
+
+
+#Generics
+
+Class<T>    --Type
+
+define class with <T> , to make it generic and then the datatype need to be also generic T empId, R name.
