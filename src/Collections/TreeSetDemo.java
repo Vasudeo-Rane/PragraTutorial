@@ -18,7 +18,7 @@ public class TreeSetDemo {
                 duplicateList.add(element);
             }
         }
-
+        //Print all the duplicates
         System.out.println(duplicateList);
 
     }
